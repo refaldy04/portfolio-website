@@ -45,10 +45,12 @@ const EmailSection = () => {
     <section className="grid md:grid-cols-2 my-12 py-24 gap-4 relative">
       <div className="bg-[radial-gradient(ellipse_at_center,var(--tw-gradient-stops))] from-secondary to-transparent rounded-full h-80 w-80 blur-lg absolute top-3/4 -left-4 transform -translate-x-1/2 -translate-1/2"></div>
       <div className="z-10">
-        <h5 className="text-xl font-bold text-white my-2">Let's Connect</h5>
+        <h5 className="text-xl font-bold text-white my-2">
+          Let&apos;s Connect
+        </h5>
         <p className="text-[#adb7be] mb-4 max-w-md">
           Feel free to get in touch with me for any inquiries or collaboration
-          opportunities. I'm always open to connecting with new people and
+          opportunities. I&apos;m always open to connecting with new people and
           exploring exciting projects together. Looking forward to hearing from
           you
         </p>

@@ -63,18 +63,18 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            Hello, I'm Refaldy, a passionate and experienced web developer
+            Hello, I&apos;m Refaldy, a passionate and experienced web developer
             dedicated to crafting visually appealing and highly functional
             websites. With a strong foundation in front-end and back-end
             development, I thrive on turning innovative ideas into seamless
             online experiences. My journey in the world of web development has
             allowed me to work with a diverse range of clients, from startups to
             established businesses, and I take pride in delivering solutions
-            that not only meet but exceed their expectations. Whether it's
+            that not only meet but exceed their expectations. Whether it&apos;s
             responsive design, optimizing user experiences, or tackling complex
-            coding challenges, I'm always up for the task. I'm excited to
-            collaborate with you to bring your digital dreams to life. Let's
-            create something remarkable together.
+            coding challenges, I&apos;m always up for the task. I&apos;m excited
+            to collaborate with you to bring your digital dreams to life.
+            Let&apos;s create something remarkable together.
           </p>
           <div className="flex justify-start flex-row mt-8">
             <TabButton
