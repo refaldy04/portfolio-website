@@ -23,8 +23,7 @@ const HeroSection = () => {
             <TextAnimation />
           </h1>
           <p className="text-[#adb7be] text-base sm:text-lg lg:text:xl mb-6">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Harum,
-            eos.
+            Code is magic, I should to lern more spell 🔮
           </p>
           <div>
             <button className="px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-primary via-primary to-secondary hover:bg-slate-200 text-white">
